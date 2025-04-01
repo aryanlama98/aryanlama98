@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @aryanlama98
+- 👋 Hi, I’m Aryan
 - 👀 I’m interested in Software Engineering. 
-- 🌱 I’m currently learning HTML, CSS and JS.
-- 💞️ I’m looking to collaborate on simple to complex development projects. 
+- 🌱 I’m currently learning Javascript and SQL.
 - 📫 How to reach me - Email
 - 😄 Pronouns: HE/Him
 - ⚡ Fun fact: I can see John Cena. 
